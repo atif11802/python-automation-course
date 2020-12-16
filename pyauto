@@ -1,2 +1,2 @@
 import pywhatkit
-pywhatkit.sendwhatmsg("+8801746368729","happy birthday from python.......",00,12)
+pywhatkit.sendwhatmsg("+#country code then mobile number","happy birthday from python.......",00,12)#00 is 24 hrs format time and 12 is minutes
